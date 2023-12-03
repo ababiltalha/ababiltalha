@@ -63,7 +63,7 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ababiltalha&theme=dark" alt="ababiltalha" /></p> -->
 
 <h3 align="left">Reach me at:</h3>
-<a href="https://linkedin.com/in/kazi-ababil-azam-talha-116531224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazi ababil azam talha" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/kazi-ababil-azam-116531224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kazi Ababil Azam" height="20" width="20" /></a>
 <a href="https://kaggle.com/kaziababilazam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaziababilazam" height="20" width="20" /></a>
 <a href="https://www.facebook.com/kaziababilazamtalha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kazi ababil azam talha" height="20" width="20" /></a>
 <!-- <a href="https://instagram.com/ababiltalha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ababiltalha" height="20" width="20" /></a> -->
