@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 <h1 align="center">Hello, I'm Ababil!</h1>
-<h4 align="center" color="ffffff"> I'm currently an undergraduate student in the Computer Science and Engineering (CSE) department of Bangladesh University of Engineering and Technology (BUET).</h3>
+<h4 align="center" color="ffffff"> I have recently graduated from the Computer Science and Engineering (CSE) department of Bangladesh University of Engineering and Technology (BUET). My research interests are autonomous vehicles and intelligent transportation systems.</h3>
 <!-- <h3 align="left">About me:</h3>
 <ul>
 <li> I am interested in <b>Object Detection</b> and <b>Data Visualization</b>.</li>
