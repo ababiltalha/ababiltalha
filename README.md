@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 <h1 align="center">Hello, I'm Ababil!</h1>
-<h4 align="center" color="ffffff"> I have recently graduated from the Computer Science and Engineering (CSE) department of Bangladesh University of Engineering and Technology (BUET). My research interests are autonomous vehicles and intelligent transportation systems.</h3>
+<h4 align="center" color="ffffff"> I have recently graduated from the Computer Science and Engineering (CSE) department of Bangladesh University of Engineering and Technology (BUET). My research interests are intelligent transportation systems and cyber physical systems.</h4>
 <!-- <h3 align="left">About me:</h3>
 <ul>
 <li> I am interested in <b>Object Detection</b> and <b>Data Visualization</b>.</li>
@@ -65,7 +65,7 @@
 <h3 align="left">Reach me at:</h3>
 <a href="https://linkedin.com/in/kazi-ababil-azam-116531224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kazi Ababil Azam" height="20" width="20" /></a>
 <a href="https://kaggle.com/kaziababilazam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaziababilazam" height="20" width="20" /></a>
-<a href="https://www.facebook.com/kaziababilazamtalha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kazi ababil azam talha" height="20" width="20" /></a>
+<!-- <a href="https://www.facebook.com/kaziababilazamtalha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kazi ababil azam talha" height="20" width="20" /></a> -->
 <!-- <a href="https://instagram.com/ababiltalha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ababiltalha" height="20" width="20" /></a> -->
 <a href="https://youtube.com/@kaziababilazamtalha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kazi ababil azam talha" height="20" width="40" /></a>
 </p>
