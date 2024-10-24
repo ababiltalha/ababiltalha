@@ -25,7 +25,7 @@
 
 ### 📚 **_Academics_**
 
-Here are my academic projects and coursework repositories, categorized by the courses I took during my undergraduate studies. Check the [pinned repositories](https://github.com/ababiltalha#:~:text=Pinned,Loading) for the most notable ones!
+Here are my academic projects and coursework repositories, categorized by the courses I took during my undergraduate studies. Check the [pinned repositories](#end) for the most notable ones!
 
 <details>
     <summary> 
@@ -140,4 +140,5 @@ Here are my academic projects and coursework repositories, categorized by the co
 <img src="https://komarev.com/ghpvc/?username=ababiltalha&label=Profile%20Views&color=000000&style=flat" alt="ababiltalha" /> </p>
 </p>
 
-<hr/>
+###### _Last Updated: 2021-10-31_
+<a name="end"></a>
