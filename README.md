@@ -36,6 +36,7 @@ Here are my academic projects and coursework repositories, categorized by the co
         </strong>
     </summary>
 
+- [Contradictory, My Dear Watson: Extended, CSE472: Machine Learning Project](https://github.com/ababiltalha/CSE472_MycroftOrMoriarty/)
 - [SyncInc, CSE408: Software Development Project](https://github.com/fardinanam/SyncInc)
 - [Laser Security System With Arduino, CSE316: Microprocessors, Microcontrollers, and Embedded Systems Project](https://github.com/fardinanam/Laser-Security-System-With-Arduino)
 - [Asteroids, GameJam 2023 by IEEE CS, BUET](https://github.com/RazinReaz/GameJam-2023-Asteroids)
