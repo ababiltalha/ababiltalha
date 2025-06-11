@@ -14,7 +14,7 @@
 
 </span>
 
-- 💻 Currently working as a **Software Engineer** at [Synesis IT PLC](https://synesisit.com.bd/)
+- 💻 Currently working as a **Software Engineer I** at [Synesis IT PLC](https://synesisit.com.bd/)
 - 🎓 Recently Graduated (BSc) from [CSE, BUET](https://cse.buet.ac.bd/)
 - 👨‍🎓 Prospective Graduate Student
 - 🚦 Interested in **Intelligent Transportation Systems**, **Cyber-Physical Systems**, and **Autonomous Vehicles**
