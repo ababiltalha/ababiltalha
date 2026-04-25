@@ -14,11 +14,9 @@
 
 </span>
 
-- 💻 Currently working as a **Software Engineer I** at [Synesis IT PLC](https://synesisit.com.bd/)
+- 💻 **Software Engineer I** at [Synesis IT PLC](https://synesisit.com.bd/)
 - 🎓 Graduated (BSc) in 2024 from [CSE, BUET](https://cse.buet.ac.bd/)
-- 👨‍🎓 Looking for PhD opportunities
-- 🚦 Interested in **Cyber-Physical Systems and Security**, **Intelligent Transportation Systems**, and **Simulation and Statistical Analysis**
-- 🔭 Currently working on **Pedestrian Behavior Analysis**, **Usable Security**, and **Reasoning in AI models**
+- 🚦 Interested in **Systems and Security**
 - ⚽ Enthusiastic about sports, esp. football. I am a huge <span style="color:red;">Manchester United</span> fan!
 
 <hr/>
