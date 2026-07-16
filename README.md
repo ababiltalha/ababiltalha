@@ -14,10 +14,11 @@
 
 </span>
 
-- 💼 **Software Engineer I** at [Synesis IT PLC](https://synesisit.com.bd/)
-- 🎓 Graduated (BSc) in 2024 from [CSE, BUET](https://cse.buet.ac.bd/)
+- 🎓 Incoming PhD Student at MASS Lab, GMU under the supervision of [Dr. Yicheng Zhang](https://yichez.site/#group)
+- 💼 Software Engineer I at [Synesis IT PLC](https://synesisit.com.bd/)
+- 💻 Graduated (BSc) in 2024 from [CSE, BUET](https://cse.buet.ac.bd/)
 - 🖥️ Interested in **Systems and Security**
-- ⚽ Enthusiastic about sports, esp. football. I am a huge <span style="color:red;">Manchester United</span> fan!
+- ⚽ Enthusiastic about sports, esp. football. I am a huge Manchester United fan!
 
 <hr/>
 
