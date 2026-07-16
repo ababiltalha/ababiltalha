@@ -125,20 +125,9 @@ Here are my academic projects and coursework repositories, categorized by the co
 
 <hr/>
 
-### 📈 **_GitHub Stats_**
-
-<!-- <p align="center">
-<a align="left" href="https://github.com/ababiltalha">
-<img alt="ababiltalha's Github Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=ababiltalha&show_icons=true&count_private=true&theme=algolia&hide_border=true" /> </a>
-</p> -->
-<p align="center">
-<a href="https://github.com/ababiltalha">
-<img alt="ababiltalha's Top Language Stats" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ababiltalha&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true&hide=css,scss,html" /> </a>
-</p>
-
-<p align="center">
+<p align="right">
 <img src="https://komarev.com/ghpvc/?username=ababiltalha&label=Profile%20Views&color=000000&style=flat" alt="ababiltalha" /> </p>
 </p>
 
-###### _Last Updated: 2021-10-31_
+###### _Last Updated: 2026-07-16_
 <a name="end"></a>
